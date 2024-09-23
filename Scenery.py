@@ -1,3 +1,7 @@
+"""Izhan Akhtar- https://github.com/IzhanAkhtar/Scenery"""
+
+
+
 import turtle
 
 # Set up the turtle screen
@@ -11,6 +15,7 @@ pen.speed(2)
 
 # Function to draw the table with 4 legs
 def draw_table(length, color):
+    '''This function is going to draw a table with four legs and will be as long as the user wants it to be'''
     pen.penup()
     pen.goto(-length // 2, 0)
     pen.pendown()
@@ -54,6 +59,8 @@ def draw_table(length, color):
 
 # Function to draw the cake
 def draw_cake():
+
+    '''This function is used to draw the main cake. It will sit on top of the table and all the layers will stack ontop of each other'''
     cake_base_y = 20
     
     pen.penup()
