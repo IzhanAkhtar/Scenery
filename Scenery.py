@@ -1,4 +1,13 @@
-"""Izhan Akhtar- https://github.com/IzhanAkhtar/Scenery"""
+"""
+Scenery,py will draw a birthday cake using turtle which will rest on a table. The cake will have one cherry and two candles
+
+
+
+Izhan Akhtar- https://github.com/IzhanAkhtar/Scenery
+Saad Shaikh- https://github.com/saaad4/scenery-.git
+Yousef Faisel- https://github.com/yousufaisal/yousufsrepo.git
+
+"""
 
 
 
